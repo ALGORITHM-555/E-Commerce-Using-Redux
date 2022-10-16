@@ -15,6 +15,7 @@ const Breadcrumb = () => {
                         <li><a href="index.html"><i className="lni lni-home"></i> Home</a></li>
                         <li><a href="index.html">Shop</a></li>
                         <li>Single Product</li>
+                        
                     </ul>
                 </div>
             </div>
